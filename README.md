@@ -6,3 +6,5 @@ test
 ##pull test
 
 ###READ ME를 수정하고 push를 해보세요!
+
+####제발 메모장 끄세요!
